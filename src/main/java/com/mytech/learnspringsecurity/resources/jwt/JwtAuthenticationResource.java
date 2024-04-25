@@ -2,9 +2,8 @@ package com.mytech.learnspringsecurity.resources.jwt;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+//@RestController
 public class JwtAuthenticationResource {
 
     private final JwtTokenService tokenService;
