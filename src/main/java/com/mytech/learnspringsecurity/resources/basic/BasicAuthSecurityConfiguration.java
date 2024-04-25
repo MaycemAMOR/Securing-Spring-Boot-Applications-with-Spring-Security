@@ -19,7 +19,7 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import javax.sql.DataSource;
 
-@Configuration//j'ai commenté puisque je vais utilisé la configuration de jwt
+@Configuration//j'ai commenté cette ligne précedament pour que je puisse utilisé la configuration de jwt
 @EnableMethodSecurity(jsr250Enabled = true, securedEnabled = true)
 /*****pour activer les differentes methode tq @PreAuthorized @postAuthorized il y a pas d'option a ajouter  @EnableMethodSecurity****
  * **********************************************************************************************************************************
