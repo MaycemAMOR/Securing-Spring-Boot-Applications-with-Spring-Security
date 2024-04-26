@@ -1,5 +1,16 @@
 # Securing-Spring-Boot-Applications-with-Spring-Security
 
+## Prerequisites: 
+##### -Java 21
+##### -SpringBoot 3.3.*
+##### -dependencies: 
+    ###### -spring-boot-starter-security
+    ###### -spring-boot-starter-web
+    ###### -spring-boot-starter-jdbc
+    ###### -spring-boot-starter-oauth2-resource-server
+    ###### -h2
+    ###### -spring-boot-devtools
+
 ## Setting Up JWT Auth with Spring Security and Spring Boot : 
 
 ### Getting Started With JWT Security Configuration: 
