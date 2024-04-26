@@ -86,7 +86,7 @@ How is authentication result stored ?
         @Secured({"ROLE_ADMIN","ROLE_USER"}) :  at TodoResource  (controller)
 
 
-## Auteurs
+## Author
 
 #### Maycem AMOR 
 #### Contact: MaycemAmor@gmail.com 
