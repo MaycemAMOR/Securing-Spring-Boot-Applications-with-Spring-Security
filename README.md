@@ -4,12 +4,12 @@
 ##### -Java 21
 ##### -SpringBoot 3.3.*
 ##### -dependencies: 
-    ###### -spring-boot-starter-security
-    ###### -spring-boot-starter-web
-    ###### -spring-boot-starter-jdbc
-    ###### -spring-boot-starter-oauth2-resource-server
-    ###### -h2
-    ###### -spring-boot-devtools
+    ###### -spring-boot-starter-security : 3.3.*
+    ###### -spring-boot-starter-web : 3.3.*
+    ###### -spring-boot-starter-jdbc : 3.3.*
+    ###### -spring-boot-starter-oauth2-resource-server : 3.3.*
+    ###### -h2 : 2.2.*
+    ###### -spring-boot-devtools : 3.3.*
 
 ## Setting Up JWT Auth with Spring Security and Spring Boot : 
 
